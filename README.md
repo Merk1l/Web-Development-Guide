@@ -1,5 +1,7 @@
 # Web Development Guide
 
+> Educational project created for studying and practicing HTML, CSS and JavaScript.
+
 Interactive web guide with examples of HTML, CSS and JavaScript.
 
 ## Features
